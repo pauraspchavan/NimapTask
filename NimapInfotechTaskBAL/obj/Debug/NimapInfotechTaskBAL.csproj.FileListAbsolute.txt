@@ -1,0 +1,11 @@
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskBAL.dll
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskBAL.pdb
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskDAL.dll
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskModel.dll
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskDAL.pdb
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskModel.pdb
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.csproj.AssemblyReference.cache
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.csproj.CoreCompileInputs.cache
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.csproj.CopyComplete
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.dll
+D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.pdb
