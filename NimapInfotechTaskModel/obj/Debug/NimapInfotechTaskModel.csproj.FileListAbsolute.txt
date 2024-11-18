@@ -4,3 +4,9 @@ D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTas
 D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTaskModel.csproj.CoreCompileInputs.cache
 D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTaskModel.dll
 D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTaskModel.pdb
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskModel\bin\Debug\NimapInfotechTaskModel.dll
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskModel\bin\Debug\NimapInfotechTaskModel.pdb
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTaskModel.csproj.AssemblyReference.cache
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTaskModel.csproj.CoreCompileInputs.cache
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTaskModel.dll
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskModel\obj\Debug\NimapInfotechTaskModel.pdb

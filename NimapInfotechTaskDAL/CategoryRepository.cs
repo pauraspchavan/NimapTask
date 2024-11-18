@@ -17,6 +17,70 @@ namespace NimapInfotechTaskDAL
             _connectionString = connectionString;
         }
 
+        public int GetTotalCategoryCount()
+        {
+            int totalCount = 0;
+
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                string query = "SELECT COUNT(*) FROM Category";
+
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    connection.Open();
+                    totalCount = (int)command.ExecuteScalar();
+                }
+            }
+
+            return totalCount;
+        }
+
+        public List<Category> GetCategories(int page, int pageSize)
+        {
+            List<Category> categories = new List<Category>();
+
+            using (SqlConnection connection = new SqlConnection(_connectionString))
+            {
+                // Get the total count first
+                string query = "SELECT COUNT(*) FROM Category;";
+
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    connection.Open();
+                    int totalCount = (int)command.ExecuteScalar();
+                }
+
+                // Now, get the paginated categories
+                query = @"
+            SELECT CategoryID, CategoryName
+            FROM Category
+            ORDER BY CategoryID
+            OFFSET @Offset ROWS FETCH NEXT @PageSize ROWS ONLY;";
+
+                using (SqlCommand command = new SqlCommand(query, connection))
+                {
+                    command.Parameters.AddWithValue("@Offset", (page - 1) * pageSize);
+                    command.Parameters.AddWithValue("@PageSize", pageSize);
+
+                    using (SqlDataReader reader = command.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            categories.Add(new Category
+                            {
+                                CategoryID = (int)reader["CategoryID"],
+                                CategoryName = reader["CategoryName"].ToString()
+                            });
+                        }
+                    }
+                }
+            }
+
+            return categories;
+        }
+
+
+
         public void AddCategory(Category category)
         {
             using (SqlConnection connection = new SqlConnection(_connectionString))

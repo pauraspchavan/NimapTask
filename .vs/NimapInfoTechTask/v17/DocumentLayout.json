@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|d:\\nimap infotech task\\nimapinfotechtask\\nimapinfotechtask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|solutionrelative:nimapinfotechtask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|D:\\Nimap Infotech Task\\NimapInfoTechTask\\nimapinfotechtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|solutionrelative:nimapinfotechtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|D:\\Nimap Infotech Task\\NimapInfoTechTask\\nimapinfotechtask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|solutionrelative:nimapinfotechtask\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|D:\\Nimap Infotech Task\\NimapInfoTechTask\\nimapinfotechtask\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|solutionrelative:nimapinfotechtask\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|D:\\Nimap Infotech Task\\NimapInfoTechTask\\nimapinfotechtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|solutionrelative:nimapinfotechtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|D:\\Nimap Infotech Task\\NimapInfoTechTask\\nimapinfotechtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5490D0CE-CD29-493D-8C15-474A0455AC86}|NimapInfoTechTask\\NimapInfoTechTask.csproj|solutionrelative:nimapinfotechtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "NimapInfoTechTask\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "NimapInfoTechTask\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:22:43.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NimapInfoTechTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NimapInfoTechTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T11:32:44.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "NimapInfoTechTask\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "NimapInfoTechTask\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T11:28:48.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NimapInfoTechTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NimapInfoTechTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T10:36:51.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NimapInfoTechTask\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NimapInfoTechTask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:49:25.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Web.config",
+              "RelativeDocumentMoniker": "NimapInfoTechTask\\Web.config",
+              "ToolTip": "D:\\Nimap Infotech Task\\NimapInfoTechTask\\NimapInfoTechTask\\Web.config",
+              "RelativeToolTip": "NimapInfoTechTask\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-13T10:47:19.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

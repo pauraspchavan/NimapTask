@@ -12,10 +12,18 @@ namespace NimapInfotechTaskBAL
     {
         private readonly CategoryRepository _repository;
 
-      
-        public CategoryService(string connectionString)
+        public CategoryService(CategoryRepository repository)
         {
-            _repository = new CategoryRepository(connectionString);
+            _repository = repository;
+        }
+
+        public List<Category> GetPaginatedCategories(int pageNumber, int pageSize)
+        {
+            return _repository.GetCategories(pageNumber, pageSize);
+        }
+        public int GetTotalCategoryCount()
+        {
+            return _repository.GetTotalCategoryCount();
         }
 
         public void AddCategory(Category category) => _repository.AddCategory(category);

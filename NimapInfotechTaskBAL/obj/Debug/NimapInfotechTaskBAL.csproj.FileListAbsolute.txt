@@ -9,3 +9,14 @@ D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskB
 D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.csproj.CopyComplete
 D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.dll
 D:\Abhay Sir\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.pdb
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskBAL.dll
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskBAL.pdb
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskDAL.dll
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskModel.dll
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskDAL.pdb
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\bin\Debug\NimapInfotechTaskModel.pdb
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.csproj.AssemblyReference.cache
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.csproj.CoreCompileInputs.cache
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInf.12AD3E7D.Up2Date
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.dll
+D:\Nimap Infotech Task\NimapInfoTechTask\NimapInfotechTaskBAL\obj\Debug\NimapInfotechTaskBAL.pdb

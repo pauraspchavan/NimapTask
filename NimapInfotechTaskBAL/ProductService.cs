@@ -12,10 +12,15 @@ namespace NimapInfotechTaskBAL
     {
         private readonly ProductRepository _repository;
 
+        private readonly CategoryRepository _categoryRepository;
+
         public ProductService(ProductRepository repository)
         {
             _repository = repository;
         }
+
+
+
 
         public List<Product> GetPaginatedProducts(int page, int pageSize)
         {

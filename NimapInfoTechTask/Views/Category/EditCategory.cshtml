@@ -1,0 +1,25 @@
+﻿@model NimapInfotechTaskModel.Category
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Edit Category</h2>
+
+    <!-- Edit Category Form -->
+    <div class="card mx-auto" style="max-width: 600px;">
+        <div class="card-header bg-primary text-white text-center">
+            <h3 class="card-title">Edit Category</h3>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("EditCategory", "Category", FormMethod.Post))
+            {
+                @Html.HiddenFor(m => m.CategoryID) <!-- Hidden field to store CategoryID -->
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.CategoryName, htmlAttributes: new { @class = "font-weight-bold" })
+                    @Html.TextBoxFor(m => m.CategoryName, new { @class = "form-control", placeholder = "Enter category name" })
+                </div>
+
+                <button type="submit" class="btn btn-success btn-block">Save Changes</button>
+            }
+        </div>
+    </div>
+</div>
